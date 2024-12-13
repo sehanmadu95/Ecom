@@ -1,0 +1,5 @@
+com\sm_digitalinnovation\ECom\EComApplication.class
+com\sm_digitalinnovation\ECom\model\Products.class
+com\sm_digitalinnovation\ECom\services\ProductService.class
+com\sm_digitalinnovation\ECom\repositories\ProductRepository.class
+com\sm_digitalinnovation\ECom\controllers\ProductController.class
